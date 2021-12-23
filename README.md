@@ -1,2 +1,2 @@
-# InstagramClone
-Instagram websitesinin bootstrap kullanılarak klonu oluşturuldu.
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
